@@ -9,6 +9,8 @@
     <artifactId>mybatis-test</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <description>更多精彩关注 "全栈自学社区" 微信公众号</description>
+
     <modules>
         <module>mybatis-01</module>
         <module>mybatis-02</module>
