@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>codingce-mybatis</name>
-    <description>更多精彩关注 "全栈自学社区" 微信公众号</description>
+    <description>更多精彩关注 "后端码匠" 微信公众号</description>
 
     <modules>
         <module>mybatis-01</module>
